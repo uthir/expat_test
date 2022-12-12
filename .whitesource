@@ -5,7 +5,7 @@
  "configExternalURL":"",
  "projectToken":"",
  "baseBranches":[],
- "enableLicenseViolations":"true",
+ "enableLicenseViolations":"true"
  },  
 
 "checkRunSettings": {
