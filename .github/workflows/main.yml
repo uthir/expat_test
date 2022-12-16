@@ -3,7 +3,7 @@
   "schedule": "every 1minutes",
   "lockFileMaintenance": {
     "enabled": true,
-    "schedule": "every 2minutes"
+    "schedule": "every 1minutes"
   },
   "packageRules": [{
     "packageNames": [],
